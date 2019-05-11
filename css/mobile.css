@@ -1,0 +1,31 @@
+#who .who-img {
+  display: none;
+}
+
+#who .mobile-h {
+  text-align: center;
+}
+
+/* #contact .map {
+  display: none;
+} */
+
+#clients .items div:last-child {
+  display: none;
+}
+
+#contact {
+  flex-direction: column;
+}
+
+#contact .map {
+  height: 300px;
+}
+
+#what .items .item p {
+  display: none;
+}
+
+#showcase .showcase-content p {
+  display: none;
+}
